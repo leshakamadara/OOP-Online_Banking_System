@@ -35,7 +35,6 @@ An academic project developed for the **2nd Year – Semester 1** on **Object-Or
 ## 📸 Screenshots
 
 > ![Landing Page](screenshots/landing.png)
-> ![Landing Page](screenshots/landing2.png)
 > ![Login Page](screenshots/login.png)
 > ![Dashboard Page](screenshots/dashboard.png)
 > ![Transfer Page](screenshots/transfer.png)
