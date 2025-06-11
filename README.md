@@ -123,3 +123,5 @@ An academic project developed for the **2nd Year – Semester 1** on **Object-Or
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/leshakamadara/OOP-Online_Banking_System.git
+
+**This project is developed as a part of university coursework and is intended for educational purposes only.**
