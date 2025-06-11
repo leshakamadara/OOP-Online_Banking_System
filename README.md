@@ -1,6 +1,6 @@
 # 💳 Online Banking System
 
-An academic project developed for the **2nd Year – Semester 1** course on **Object-Oriented Programming (OOP)**. This web-based **Online Banking System** simulates real-world banking operations and demonstrates the practical application of OOP principles using the **Java MVC architecture**.
+An academic project developed for the **2nd Year – Semester 1** on **Object-Oriented Programming (OOP)**. This web-based **Online Banking System** simulates real-world banking operations and demonstrates the practical application of OOP principles using the **Java MVC architecture**.
 
 ---
 
