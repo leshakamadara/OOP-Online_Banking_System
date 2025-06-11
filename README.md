@@ -56,7 +56,7 @@ An academic project developed for the **2nd Year – Semester 1** course on **Ob
 
 ## 📁 Project Structure
 
-> .
+.
 ├── build
 │   └── classes
 │       └── com
