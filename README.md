@@ -105,9 +105,10 @@ An academic project developed for the **2nd Year – Semester 1** on **Object-Or
             ├── userOpenAccounts.jsp
             ├── userTransactions.jsp
             ├── videos
-            └── view-complaint.jsp```
-
+            └── view-complaint.jsp
+```
 ---
+
 
 ## ⚙️ How to Run the Project
 
@@ -123,5 +124,17 @@ An academic project developed for the **2nd Year – Semester 1** on **Object-Or
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/leshakamadara/OOP-Online_Banking_System.git
+
+---
+
+   Authors
+	•	LEEE
+ 	•	Sanothan P
+  	•	Muween
+   	•	Gajendra
+ 
+    
+
+Feel free to add your teammates if any.
 
 **This project is developed as a part of university coursework and is intended for educational purposes only.**
