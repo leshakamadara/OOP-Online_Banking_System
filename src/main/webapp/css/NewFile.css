@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+* {
+	padding: 0;
+   	margin:0;
+
+	box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+   }
+
+
+body {
+	background-color:rgba(255, 255, 255, 0.4);
+	
+}
+
+#table1{
+	font-size: 16px;
+	width:700px;
+	display: block;
+	margin-right:5px;
+	margin-left:420px;
+	height:800px;
+	margin-bottom:5px;
+	margin-top:50px;
+	border-radius: 10px;
+	border-color: white;
+	background-color: white;
+	text-align: left;
+	padding:26px 60px;
+	background-image:url("../images/formima1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+
+}
+
+.head1{
+	
+	margin-top:0px;
+	text-align: left;
+	margin-bottom:1px;
+	border-radius: 10px;
+	height:20px;
+
+	margin-left:280px;
+	
+}
+
+
+#updatebutton1{
+	
+	border-radius: 15px;
+    background-color: #25c16f;
+    font-size:13px ;
+    padding: 2px;
+    border-color: #25c16f;
+    color: white;
+    width:90px ;
+    cursor: pointer;
+    margin-left:300px;
+	margin-top:10px;
+	
+}
+
+.space1{
+	
+	
+	text-align:right;
+	
+}
+
+.space2{
+	
+	text-align:left;
+}
+
+
+.space3{
+	
+	border-radius:90px;
+	border-color:#25c16f;
+	text-align:center;
+}
+
+
+#formcolor22{
+	
+	height:600px;
+	width: 600px;
+    border-radius: 35px;
+    background-color: rgba(223, 223, 221, 0.5);
+	padding: 33px 20px 0px 20px;
+	margin-top: 90px;
+    margin-right:auto;
+    margin-left:0px;
+    text-align: left;
+    
+}
