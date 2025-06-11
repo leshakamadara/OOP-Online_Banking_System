@@ -6,13 +6,16 @@ An academic project developed for the **2nd Year – Semester 1** course on **Ob
 
 ## 🚀 Features
 
-- 🔐 Secure Login and Registration (with password hashing)
-- 🧾 View Account Details and Balance
-- 💸 Transfer Funds
-- 🧑‍🤝‍🧑 Manage Beneficiaries
-- 📜 Transaction History
-- 🔔 Notifications
-- 🛠 Admin Panel for User and Transaction Management
+- 🖥️ **Clean and Interactive UI/UX**
+- 
+- 🔐 Secure Login & Registration (with password hashing)
+- 🧾 Account Overview – View balances and manage multiple accounts
+- 💳 Fund Transfer – Easily send money between accounts
+- 👥 Beneficiary Management – Add, update, and remove payees
+- 📈 Transaction History – View detailed records of all activities
+- 🏦 Loan Services – Request, view, and manage loans
+- 🛎️ Support System – Submit and track complaints
+- 🛠️ Admin Panel – Manage users, complaints, and transactions
 
 ---
 
