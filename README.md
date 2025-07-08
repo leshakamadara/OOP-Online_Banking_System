@@ -6,7 +6,7 @@ An academic project developed for the **2nd Year – Semester 1** on **Object-Or
 
 ## 🚀 Features
 
-- 🖥️ **Clean and Interactive UI/UX**
+- 🖥 **Clean and Interactive UI/UX**
 - 
 - 🔐 Secure Login & Registration (with password hashing)
 - 🧾 Account Overview – View balances and manage multiple accounts
@@ -49,10 +49,10 @@ An academic project developed for the **2nd Year – Semester 1** on **Object-Or
 
 ## 🧠 OOP Concepts Applied
 
-- ✅ **Encapsulation**: Model classes
-- ✅ **Abstraction**: Interface-driven structure
-- ✅ **Inheritance**: Common base classes for Users
-- ✅ **Polymorphism**: Method overloading and overriding
+-  **Encapsulation**: Model classes
+-  **Abstraction**: Interface-driven structure
+-  **Inheritance**: Common base classes for Users
+-  **Polymorphism**: Method overloading and overriding
 
 ---
 
