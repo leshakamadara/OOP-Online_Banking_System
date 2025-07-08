@@ -45,16 +45,7 @@ An academic project developed for the **2nd Year – Semester 1** on **Object-Or
 > ![Contact Page](screenshots/contact.png)
 > ![Profile Page](screenshots/profile.png)
 
----
 
-## 🧠 OOP Concepts Applied
-
--  **Encapsulation**: Model classes
--  **Abstraction**: Interface-driven structure
--  **Inheritance**: Common base classes for Users
--  **Polymorphism**: Method overloading and overriding
-
----
 
 ## 📁 Project Structure
 
